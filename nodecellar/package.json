@@ -1,0 +1,11 @@
+{
+  "name": "nodecellar",
+  "version": "1.0.0",
+  "description": "Class checker application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
+
+
